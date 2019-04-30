@@ -6,3 +6,4 @@
 * Robin
 * Volcán Negro
 * Atom
+* Shazam
